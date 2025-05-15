@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: AirPollutionPrediction
+Version: 0.0.1
+Author: Swati
+Author-email: swati.nanda2103@gmail.cp
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
